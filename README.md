@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sriram Chunduri</h1>
-<h3 align="center">Data Scientist | Machine Learning Enthusiast | Software Developer | Passionate about AI and Data Analytics | Innovator in Tech Solutions</h3>
+<h3 align="center">Data Scientist | Machine Learning Enthusiast | Software Developer | Passionate about AI and Data Analytics </h3>
 
 - 🔭 I’m currently working on [Alpaca-Trading-Bot](https://github.com/sriramsachit-git/Alpaca-Trading-Bot)
 
